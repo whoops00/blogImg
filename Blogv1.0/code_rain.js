@@ -1,6 +1,6 @@
 window.onload = function(){
     //获取画布对象
-    var canvas = document.getElementById("code_rain_canvas");
+    var canvas = document.getElementById("main-container");
     //获取画布的上下文
     var context =canvas.getContext("2d");
     var s = window.screen;
