@@ -1,4 +1,4 @@
-function(){
+window.onload = function(){
     //获取画布对象
     var canvas = document.getElementById("code_rain_canvas");
     //获取画布的上下文
